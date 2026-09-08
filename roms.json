@@ -24,7 +24,7 @@
     "fastboot": "https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/HyperOS-STABLE-RELEASES/HyperOS3.0/xiaomi.eu_HAOTIAN_OS3.0.309.0.WOBCNXM_16_f5fba57993.zip/download"
   },
   {
-    "device": "Xiaomi 15 Offical Global",
+    "device": "Xiaomi 15 Offical",
     "codename": "dada",
     "region": "Global",
     "version": "OS3.0.309.WOBCNXM",
@@ -32,7 +32,7 @@
     "fastboot": "https://mifirm.net/download/22721"
   },
   {
-    "device": "Xiaomi 15 pro Offical CN",
+    "device": "Xiaomi 15 pro Offical",
     "codename": "haotian",
     "region": "China",
     "version": "OS3.0.308.0.WOBCNXM",
