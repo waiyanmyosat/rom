@@ -1,10 +1,19 @@
 [
   {
-    "device": "Xiaomi 15 Pro",
+    "device": "Xiaomi 15 Pro haotian",
     "codename": "haotian",
     "region": "China",
     "version": "OS4.0.0.7.XOBCNXM.D01",
-    "android": "15.0",
-    "fastboot": "https://bit.ly/mi15p_4007"
+    "android": "17.0",
+    "fastboot": "https://drive.google.com/file/d/1ciQCLvEaPWV3eNrkFLczkq98i-vlUh3n/view?usp=drivesdk"
+  }
+  {
+    "device": "Xiaomi 15 dada",
+    "codename": "dada",
+    "region": "China",
+    "version": "OS4.0.0.8.XOCCNXM",
+    "android": "17.0",
+    "fastboot": "https://drive.google.com/file/d/1K8eDdtxujnfOlEiQqEUXsMqcltr7n1HK/view?usp=drivesdk"
   }
 ]
+https://drive.google.com/file/d/1K8eDdtxujnfOlEiQqEUXsMqcltr7n1HK/view?usp=drivesdk
