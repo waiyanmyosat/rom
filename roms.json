@@ -1,0 +1,10 @@
+[
+  {
+    "device": "Xiaomi 15 Pro",
+    "codename": "haotian",
+    "region": "China",
+    "version": "OS4.0.0.7.XOBCNXM.D01",
+    "android": "15.0",
+    "fastboot": "https://drive.google.com/file/d/1ciQCLvEaPWV3eNrkFLczkq98i-vlUh3n/view?usp=drivesdk"
+  }
+]
